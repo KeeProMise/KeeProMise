@@ -4,5 +4,5 @@
 
 **💻 Majoring in Computer science and Technology**
 
-**📫 Email: zhangjian@iie.ac.cn**
+**📫 Email: yxg@iie.ac.cn**
 
