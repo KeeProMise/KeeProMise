@@ -4,5 +4,5 @@
 
 **💻 Majoring in Computer science and Technology**
 
-**📫 Email: yxg@iie.ac.cn**
+**📫 Email: 1361320460@qq.com**
 
