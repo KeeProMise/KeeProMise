@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <img src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/gif3.gif" align="right" style="width: 100%" />
 </div>  
 
@@ -73,6 +73,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
