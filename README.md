@@ -72,6 +72,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.s
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
 <a href="https://flink.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/flink_squirrel_1000.png" alt="Flink" height="50" /></a>  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>
+<a href="https://hive.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/Apache_Hive_logo.svg.png" alt="Hive" height="50" /></a>
 </div>
 
 </td></tr></table>  
