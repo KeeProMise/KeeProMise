@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/gif3.gif" align="right" style="width: 100%" />
-</div>  
+<img src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/gif3.gif" align="center" style="width: 100%" />
+</div>
 
 
 ### <div align="center">I'm keePromise, an open source lover</div>
