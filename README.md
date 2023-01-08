@@ -8,7 +8,7 @@
 <br/>
 
 - 📚 Currently in the third year of postgraduate study at the Chinese Academy of Sciences
-- 📍🏙️ Beijing.
+- 🏙️ Beijing.
   <br/>
   <br/>
   <br/>
