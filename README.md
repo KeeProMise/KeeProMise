@@ -3,7 +3,7 @@
 
 
 
-### I'm Zg_J（KeePromise） .
+### I'm Zg_J（KeePromise）
 
 <br/>
 
