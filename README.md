@@ -55,21 +55,10 @@
 <br/>  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeProMise&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeProMise&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=KeeProMise&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=KeeProMise&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<br/>  
-
-
-<br/>  
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=KeeProMise&&style=flat-square" align="center" />
+<div align="right">
+<img src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/gif3.gif" align="right" style="width: 100%" />
 </div>  
-
-
-<br/>  
-
-
-<br />
