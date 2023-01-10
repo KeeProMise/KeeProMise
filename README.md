@@ -17,7 +17,7 @@
   <br/>
   <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
+  <br/>
 
 <br/>
 <br/>
@@ -34,3 +34,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.s
 </div>  
 
 <br/>  
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
+
+<br/>
