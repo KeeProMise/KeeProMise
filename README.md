@@ -22,7 +22,6 @@
 <br/>
 <br/>
 
-
 ## About My Github
 
 <!--[![Top Langs](https://github-readme-stats-keepromise.vercel.app/api/top-langs/?username=KeeProMise&layout=compact&langs_count=8&theme=cobalt)](https://github.com/KeeProMise/github-readme-stats)
@@ -37,4 +36,23 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
 
+
 <br/>
+### 📗 Education Experience
+
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Graduate Student** \
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
+Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
+Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models)
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
+
+**Bachelor Degree** \
+[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
+Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lessons Summary](https://github.com/JackHCC/USTB-miniPaper)
+<br>
