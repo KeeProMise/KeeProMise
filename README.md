@@ -41,7 +41,7 @@
 
 **Graduate Student** \
 [**CAS**](https://www.cas.cn/) • 2020/09/01 - Now \
-Skills: `Big Data`, `Distributed Systems`, `database`, `machine learning`, `Natural Language Processing`, `etc.` \
+Skills: `Big Data`, `Distributed System`, `database`, `machine learning`, `Natural Language Processing`, `etc.` \
 <br/>
 
 
@@ -49,5 +49,5 @@ Skills: `Big Data`, `Distributed Systems`, `database`, `machine learning`, `Natu
 
 **Bachelor Degree** \
 [**XDU**](https://www.xidian.edu.cn/index.htm) • 2015/08/21 - 2020/06/01 \
-Skills: `Embedded`, `backend`, `web`, `etc.` \
+Skills: `Embedded System`, `backend`, `web`, `etc.` \
 <br>
