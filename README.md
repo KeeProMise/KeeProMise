@@ -40,12 +40,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.s
 <br/>
 ### 📗 Education Experience
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="PKU" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/cas.png"/>](https://www.cas.cn/)
 
 **Graduate Student** \
-[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
+[**CAS**](https://www.cas.cn/) • 2020/09/01 - Now \
 Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
-Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
 
 
