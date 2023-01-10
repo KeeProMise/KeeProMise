@@ -7,7 +7,7 @@
 
 <br/>
 
-- 📚 Currently in the third year of postgraduate study at the Chinese Academy of Sciences
+- 📚 Third-year master student at the Chinese Academy of Sciences
 - 🏙️ Beijing.
 - 📮 1361320460@qq.com
   <br/>
@@ -17,7 +17,7 @@
   <br/>
   <br/>
 
-  <br/>
+  You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
 
 <br/>
 <br/>
@@ -34,11 +34,8 @@
 
 <br/>  
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
 
-
-<br/>
-### 📗 Education Experience
+## Education Experience
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/cas.png"/>](https://www.cas.cn/)
 
@@ -48,10 +45,9 @@ Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded Sy
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="USTB" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/XDU.jpg"/>](https://www.xidian.edu.cn/index.htm)
 
 **Bachelor Degree** \
-[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
+[**XDU**](https://www.xidian.edu.cn/index.htm) • 2015/08/21 - 2020/06/01 \
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
-Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lessons Summary](https://github.com/JackHCC/USTB-miniPaper)
 <br>
