@@ -41,7 +41,7 @@
 
 **Graduate Student** \
 [**CAS**](https://www.cas.cn/) • 2020/09/01 - Now \
-Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
+Skills: `Big Data`, `Distributed Systems`, `database`, `machine learning`, `Natural Language Processing`, `etc.` \
 <br/>
 
 
@@ -49,5 +49,5 @@ Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded Sy
 
 **Bachelor Degree** \
 [**XDU**](https://www.xidian.edu.cn/index.htm) • 2015/08/21 - 2020/06/01 \
-Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
+Skills: `Embedded`, `backend`, `web`, `etc.` \
 <br>
