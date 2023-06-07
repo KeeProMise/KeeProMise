@@ -36,8 +36,8 @@
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/cas.png"/>](https://www.cas.cn/)
 
-**Graduate Student** \
-[**CAS**](https://www.cas.cn/) • 2020/09/01 - Now \
+**Master's Degree** \
+[**CAS**](https://www.cas.cn/) • 2020/09/01 - 2023/07/01 \
 Skills: `Big Data`, `Distributed System`, `database`, `machine learning`, `Natural Language Processing`, `etc.` \
 <br/>
 <br/>
