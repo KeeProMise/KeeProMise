@@ -2,19 +2,6 @@
 <img align="right" top='60' alt="GIF" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/gif3.gif" width="480"/>
 
 
-
-### I'm Zg_J（KeePromise）
-
-<br/>
-
-- 📚 Third-year master student at the Chinese Academy of Sciences
-- 🏙️ Beijing.
-- 📮 1361320460@qq.com
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-
  You are my ![Visitor Count](https://profile-counter.glitch.me/KeeProMise/count.svg)th visitor
 <br/>
 <br/>
@@ -30,21 +17,3 @@
 </div>  
 
 <br/>  
-
-
-## Education Experience
-
-[<img align="left" height="94px" width="94px" alt="PKU" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/cas.png"/>](https://www.cas.cn/)
-
-**Master's Degree** \
-[**CAS**](https://www.cas.cn/) • 2020/09/01 - 2023/07/01 \
-Skills: `Big Data`, `Distributed System`, `database`, `machine learning`, `Natural Language Processing`, `etc.` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="USTB" src="https://github.com/KeeProMise/KeeProMise/blob/master/picture/XDU.jpg"/>](https://www.xidian.edu.cn/index.htm)
-
-**Bachelor Degree** \
-[**XDU**](https://www.xidian.edu.cn/index.htm) • 2015/08/21 - 2020/06/01 \
-Skills: `Embedded System`, `backend`, `web`, `etc.` \
-<br>
